@@ -1,0 +1,63 @@
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Default.srprofile
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.dll.config
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.pdb
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Newtonsoft.Json.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecRun.SpecFlowPlugin.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.ValueTuple.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecFlow.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Common.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.Support.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Newtonsoft.Json.xml
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.pdb
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.xml
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.ValueTuple.xml
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.xml
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.Support.xml
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp SpecFlow.csproj.CoreCompileInputs.cache
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.dll
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.pdb
+D:\HiQATech\HelpingTesters\VisualSudioProject\New folder\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp SpecFlow.csprojResolveAssemblyReference.cache
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Default.srprofile
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.dll.config
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.pdb
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Newtonsoft.Json.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.ValueTuple.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.Support.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Newtonsoft.Json.xml
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.pdb
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.xml
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.ValueTuple.xml
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.xml
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.Support.xml
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp SpecFlow.csprojResolveAssemblyReference.cache
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp SpecFlow.csproj.CoreCompileInputs.cache
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp SpecFlow.csproj.CopyComplete
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.dll
+C:\Test Automation\VisualStudioProject\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.pdb
